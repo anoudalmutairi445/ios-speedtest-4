@@ -5,12 +5,10 @@ import UIKit
 //: # 1️⃣ for-in loop
 
 //MARK: for- in loop خمس مرات باستخدام ال "iOS" قم بطباعه
-var ios = "ios"
 
-for ios in ios{
-    print("iOS")
-    print("iOS")
-       
+
+for i in 0..<5{
+    print("ios")
 }
 
 
